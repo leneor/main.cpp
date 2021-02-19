@@ -46,5 +46,6 @@ private:
 int main() {
     Circle  c(5);
     std::cout<<c.pi()<<' '<<c.square()<<std::endl;
+    std::cout<<2<<std::endl;
     return 0;
 }
